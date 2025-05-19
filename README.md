@@ -18,7 +18,6 @@ This document details the development and features of "Dragon Warrior Adventure,
     *   Player Health Display (Heart icons)
     *   Currency Counter (Coins)
     *   Score Counter (Stars)
-    *   Energy/Resource Bar for special abilities
     *   Boss Health Bar
     *   In-game Timer for specific challenges
     *   Shop Interface
@@ -42,13 +41,13 @@ This document details the development and features of "Dragon Warrior Adventure,
 
 *   **Player Character (Dragon Warrior):** Implemented with a state machine or equivalent logic for movement, combat, animation transitions, and interactions with collectibles and hazards. Sprite sourced from the "Dragon Warrior" asset pack.
 *   **Standard Enemy (Knight):** Implemented with basic movement logic (patrolling) and simple attack behavior upon player detection. Collision with hazards or player attacks triggers damage/death states. Sprites sourced from the "Knight Sprite Sheet" and potentially "Pixel Adventure 1".
-*   **Boss Enemy (Crimson Knight):** Implemented with a distinct state machine, larger health pool, specific attack patterns, and interaction with the dedicated boss health UI bar. Potentially adapted from the "Knight Sprite Sheet" or custom assets.
+*   **Boss Enemy (Crimson Knight):** Implemented with a distinct state machine, larger health pool, specific attack patterns, and interaction with the dedicated boss health UI bar.
 *   **Hazards:** Static or moving objects with colliders triggering damage on the player upon contact. Examples include spike hitboxes, rotating sawblade colliders, and projectile scripts. Assets primarily from "Pixel Adventure 1."
 
 ## 5. Level Design Approach
 
 Levels were designed as individual scenes or distinct areas within a larger scene, allowing for varied environmental themes and obstacle arrangements. The approach involved:
-*   Implementing various platforming types (static, moving, destructible - if applicable).
+*   Implementing various platforming types (static, moving)
 *   Placing environmental hazards requiring precise movement.
 *   Designing combat arenas with specific enemy placements.
 *   Integrating timed challenge mechanics into certain layouts.
@@ -61,8 +60,8 @@ UI elements were implemented using Unity's UGUI system. Data from game managers 
 
 ## 7. Development Environment & Learnings
 
-*   **Engine:** Unity 2020
-*   **IDE:** Visual Studio
+*   **Engine:** Unity 2020.3.11f1
+*   **IDE:** Visual Studio 2022
 *   **Development Period:** 2022
 *   **Key Learnings Demonstrated:**
     *   Fundamentals of 2D physics and character control in Unity.
