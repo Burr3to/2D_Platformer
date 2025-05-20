@@ -109,9 +109,7 @@ The following assets from the Unity Asset Store were utilized in this project:
 *   **Dragon Warrior (Free):**
     *   Link: https://assetstore.unity.com/packages/2d/characters/dragon-warrior-free-93896
 
-## 11. Screenshots
-
-Visual documentation of different stages and aspects of the project, referencing specific level types or features. The images are expected to be located relative to this document (e.g., in a 'ReadmeImages' subdirectory).
+## 11. Showcase
 
 *   **Starting screen:**
     ![In-Game Controls Display](ReadmeImages/Toturial.webp)
