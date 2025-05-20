@@ -114,27 +114,27 @@ The following assets from the Unity Asset Store were utilized in this project:
 Visual documentation of different stages and aspects of the project, referencing specific level types or features. The images are expected to be located relative to this document (e.g., in a 'ReadmeImages' subdirectory).
 
 *   **Starting screen:**
-    ![In-Game Controls Display](ReadmeImages/Toturial.png)
+    ![In-Game Controls Display](ReadmeImages/Toturial.webp)
 
 *   **Second room:**
-    ![General Level Layout](ReadmeImages/showcase1.png)
-
-*   **Crazy chaotical room:**
-    ![Hazard-Focused Level](ReadmeImages/crazyLevel.png)
-
-*   **Following cube room:**
-    ![Specific Level Mechanic - Following Entity](ReadmeImages/FollowingCube.png)
+    ![General Level Layout](ReadmeImages/showcase1.webp)
 
 *   **Shop:**
-    ![Shop Interface](ReadmeImages/shop.png)
+    ![Shop Interface](ReadmeImages/ShopAnim.webp)
+
+*   **Crazy chaotical room:**
+    ![Hazard-Focused Level](ReadmeImages/crazyLevel.webp)
+
+*   **Following cube room:**
+    ![Specific Level Mechanic - Following Entity](ReadmeImages/FollowingCube.webp)
 
 *   **Timed room:**
-    ![Timed Challenge Level](ReadmeImages/timedRoom.png)
+    ![Timed Challenge Level](ReadmeImages/timedRoom.webp)
 
 *   **Boss Phase 1:**
-    ![Boss Encounter - Initial Phase](ReadmeImages/BossPhase1.png)
+    ![Boss Encounter - Initial Phase](ReadmeImages/BossPhase1.webp)
 
 *   **Boss Phase 2:**
-    ![Boss Encounter - Potential Second Phase or Variation](ReadmeImages/BossPhase2.png)
+    ![Boss Encounter - Potential Second Phase or Variation](ReadmeImages/BossPhase2.webp)
 
 ---
