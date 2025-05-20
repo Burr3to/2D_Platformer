@@ -100,13 +100,13 @@ UI elements were implemented using Unity's UGUI system. Data from game managers 
 
 The following assets from the Unity Asset Store were utilized in this project:
 
-*   **Knight Sprite Sheet (Free):**
+*   **Knight Sprite Sheet:**
     *   Link: https://assetstore.unity.com/packages/2d/characters/knight-sprite-sheet-free-93897
 *   **Pixel Adventure 1:**
     *   Link: https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
 *   **Warped Shooting FX:**
     *   Link: https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246
-*   **Dragon Warrior (Free):**
+*   **Dragon Warrior:**
     *   Link: https://assetstore.unity.com/packages/2d/characters/dragon-warrior-free-93896
 
 ## 11. Showcase
